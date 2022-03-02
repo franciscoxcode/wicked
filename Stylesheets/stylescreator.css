@@ -71,6 +71,22 @@ footer {
     margin-bottom: 50px;
 }
 
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 30%;
+}
+
+.form input {
+    margin-top: 12px;
+    width: 100%;
+}
+
 @media screen and (max-width: 795px) {
    .grid {
        display: flex;
@@ -79,6 +95,10 @@ footer {
 
    .images {
        width: 50%;
+   }
+
+   .form {
+    width: 70%;
    }
 }
 
