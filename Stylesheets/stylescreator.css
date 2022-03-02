@@ -73,19 +73,35 @@ footer {
 
 
 
-.form {
+.form, 
+.billinginfo {
     display: flex;
     flex-direction: column;
     margin: auto;
-    margin-top: 35px;
+    margin-top: 20px;
     margin-bottom: 35px;
     width: 30%;
 }
 
-.form input {
+.form input,
+.data {
     margin-top: 12px;
     width: 100%;
 }
+
+.data {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-size: 15px;
+   font-weight:500;
+}
+
+.downunder {
+    text-align: center;
+    margin-top: 35px;
+}
+
 
 @media screen and (max-width: 795px) {
    .grid {
@@ -97,9 +113,11 @@ footer {
        width: 50%;
    }
 
-   .form {
+   .form,
+   .billinginfo {
     width: 70%;
    }
+
 }
 
 
