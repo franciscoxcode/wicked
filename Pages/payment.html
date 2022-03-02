@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Stylesheets/stylescreator.css">
+    <title>Payment</title>
+</head>
+
+<body>
+    <header>
+        <a class="upper" href="../index.html"><img src="../Pictures/Logo.png" alt="Wicked Logo"></a>
+        <img class="cart upper" src="../Pictures/shoppingcart.png" alt="Shopping Cart">
+    </header>
+    <form action="#">
+        <section>
+            <h2>Payment Details</h2>
+            <div class="grid">
+                <div class="images">
+                    <img src="../Pictures/pineapplecake.jpg" alt="Pineapple Cake">
+                    <span>Pineapple</span>
+                    <span>$10</span>
+                </div>
+                <div class="images">
+                    <img src="../Pictures/hotfudge.jpg" alt="Hot Fudge">
+                    <span>Hot Fudge</span>
+                    <span>$5</span>
+                </div>
+                <div class="images">
+                    <img src="../Pictures/toastednuts.jpg" alt="Toasted Nuts">
+                    <span>Toasted Nuts</span>
+                    <span>$10</span>
+                </div>
+                <div class="images">
+                    <img src="../Pictures/m&ms.jpg" alt="M&Ms">
+                    <span>M&Ms</span>
+                    <span>$5</span>
+                </div>
+            </div>
+        </section>
+    </form>
+    <form class="form" action="#">
+        <input type="text" placeholder="FULL NAME">
+        <input type="tel" maxlength="10" placeholder="PHONE NUMBER">
+        <input type="email" placeholder="MAIL ADDRESS">
+        <input type="text" maxlength="16" placeholder="CREDIT CARD NUMBER">
+        <input type="date" placeholder="EXPIRATION DATE">
+        <input type="text" maxlength="3" placeholder="CVV">
+    </form>
+    <footer>
+        <h3>TOTAL: <span id="totalPrice">$30</span></h3>
+        <a class="button" href="../Pages/confirmation.html">PAY NOW
+        </a>
+    </footer>
+</body>
+
+</html>
