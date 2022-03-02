@@ -71,8 +71,6 @@ footer {
     margin-bottom: 50px;
 }
 
-
-
 .form, 
 .billinginfo {
     display: flex;
@@ -129,6 +127,7 @@ footer {
 .space {
     margin: 15px 0;
 }
+
 
 
 @media screen and (max-width: 795px) {
