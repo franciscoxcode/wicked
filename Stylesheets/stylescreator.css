@@ -102,6 +102,30 @@ footer {
     margin-top: 35px;
 }
 
+.flexie {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flexie input {
+    width: 40%;
+}
+
+.parameters {
+    margin-top: 15px;
+}
+
+.baker {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.selected {
+    text-decoration: underline;
+    font-weight: bold;
+    color: rgb(168,0,62);
+}
+
 
 @media screen and (max-width: 795px) {
    .grid {
