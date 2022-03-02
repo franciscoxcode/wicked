@@ -126,6 +126,10 @@ footer {
     color: rgb(168,0,62);
 }
 
+.space {
+    margin: 15px 0;
+}
+
 
 @media screen and (max-width: 795px) {
    .grid {
