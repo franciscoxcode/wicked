@@ -6,6 +6,15 @@ document.getElementById('hotfudge').onclick = toggleIngredient
 document.getElementById('oreos').onclick = toggleIngredient
 document.getElementById('toastednuts').onclick = toggleIngredient
 document.getElementById('frostedcoffee').onclick = toggleIngredient
+document.getElementById('pineapple').onclick = toggleIngredient
+document.getElementById('orange').onclick = toggleIngredient
+document.getElementById('vanilla').onclick = toggleIngredient
+document.getElementById('chocolate').onclick = toggleIngredient
+document.getElementById('custardcream').onclick = toggleIngredient
+document.getElementById('milkcaramel').onclick = toggleIngredient
+document.getElementById('strawberryjam').onclick = toggleIngredient
+document.getElementById('mnms').onclick = toggleIngredient
+
 
 function changePrice(pricing) {
     totalPrice = totalPrice + pricing
