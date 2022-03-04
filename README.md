@@ -3,7 +3,7 @@ Website for Wicked Cake Shop where clients can create custom cakes
 
 ## Live Webpages
 * Client (https://franciscocasillas.github.io/wicked/)
-* Baker (https://franciscocasillas.github.io/wicked/inventory.html)
+* Baker (https://franciscocasillas.github.io/wicked/Pages/inventory.html)
 
 ## Features
 * The baker can adjust the price of his ingredients
