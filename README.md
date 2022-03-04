@@ -13,6 +13,13 @@ Website for Wicked Cake Shop where clients can create custom cakes
 * The client can click on the phone number and make the call instantly
 * The client can click the map and get directions to the cake shop
 
+
+
+
+https://user-images.githubusercontent.com/17735860/156847745-a229ea87-b7ca-40c1-9f25-cd73d9c81e14.mov
+
+
+
 ## Image Credits 
 * Yulia Matvienko:
     (https://unsplash.com/photos/AyEzR13ypv8)
