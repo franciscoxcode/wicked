@@ -9,8 +9,8 @@ https://user-images.githubusercontent.com/17735860/156847745-a229ea87-b7ca-40c1-
 **Tech used:** HTML, CSS, JavaScript
 
 ### Features
-* The bakery can manage the ingredients they offer and their price
-* The bakery can check out inventory on their products and manage it
+* The bakery can manage the ingredients they offer and their prices
+* The bakery can check out the remaining inventory on their products and update it
 * The bakery can check pending orders and client's information next to it
 * The client can customize their cake order and see their order's pricing immediately
 * The client can click on the phone number and make a call to the bakery instantly
@@ -20,10 +20,14 @@ https://user-images.githubusercontent.com/17735860/156847745-a229ea87-b7ca-40c1-
 
 - [ ] Images size optimization for faster loading 
 - [ ] Carry information from one page to another
-- [ ] Add lessons learned
+- [ ] Create interactive map
+
 
 ### Lessons Learned:
-
+1. **Whenever possible use images instead of text.** Images are read faster by the average user and give way more context than text does. Too much text can be overwhelming for someone who just wants to fulfill a need or find a quick answer. This project taught me that users also want you to show them stuff instead of tell them about it. After all they say, a picture talks more than a thousand words. Of course that doesn't mean that everything must be an image. Text is necessary sometimes. But it's always best to ponder in which cases it's better to convey an idea with images and when it's best to use plain text. 
+2. **Make things as clear as possible.** When it comes to design, most of us usually look for the more aesthitically pleasing layout for our projects. Problem is, sometimes a beautiful design is not necessarily the most helpful at conveying information clearly. With this project I learned it's better to come up *first* with the most comprehensible layout, to *later on* upgrade it with the eye candy. Guess this insight also came from using the Polywork app, which despite the fact that it's very beautiful, it can be very confusing to read at times. 
+3. **Design thinking of what your client already has.** For this project I was already given a bunch of pictures to include in the webpage. My initial approach was to design and look for a color palette with the ideas I had in mind, rather than the material I was provided. Needless to say, I had a hard time having everything harmonize. That is, until I decided to work around the material I was already provided. Working that way proved to be easier and the results were way better as well. 
+4. **Avoid all noise.** At times clients think the more things their webpages have, the better. And as a designer, for a moment or two, one also does think the same. But in reality, too much stuff makes your website noisy. Of course it's nice having lots of features and fireworks, but there is something as too much good stuff. For this project I had to trim a couple features that where nice and fun to have but where distracting, and mainly not essential for the service. 
 
 ## Design
 
@@ -41,9 +45,13 @@ For this project I was given the task of creating the whole brand's identity as 
 
 ### Font
 
+Roboto
+
 <img width="400" alt="Font Family - Roboto" src="https://user-images.githubusercontent.com/17735860/164845711-aa81231f-71a6-459b-b97d-79e14539797f.png">
 
 ### Logo
+
+Original idea and design by me.
 
 <img width="500" alt="Logo" src="https://user-images.githubusercontent.com/17735860/164840152-80656b24-9fd5-4d40-b179-31fe0adfd3bd.png">
 
