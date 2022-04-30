@@ -56,9 +56,10 @@ Roboto
 
 ### Logo
 
-Original idea and design by me.
+Original idea and design by me
 
-<img width="500" alt="Logo" src="https://user-images.githubusercontent.com/17735860/164840152-80656b24-9fd5-4d40-b179-31fe0adfd3bd.png">
+<img width="483" alt="Screen Shot 2022-04-30 at 11 18 43" src="https://user-images.githubusercontent.com/17735860/166113672-1eacd7c8-555c-4351-b743-a755d77cdc4a.png">
+
 
 ### Image Credits 
 [^1]: [Yulia Matvienko](https://unsplash.com/photos/AyEzR13ypv8),
