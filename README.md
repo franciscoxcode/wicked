@@ -3,7 +3,12 @@ This project was built for Wicked, a bakery shop where clients can create custom
 
 [**Client's Interface**](https://franciscocasillas.github.io/wicked/) | [**Bakery's Interface**](https://franciscocasillas.github.io/wicked/Pages/inventory.html)
 
-https://user-images.githubusercontent.com/17735860/156847745-a229ea87-b7ca-40c1-9f25-cd73d9c81e14.mov
+### Main Page
+<img width="1436" alt="Wicked Home Page" src="https://user-images.githubusercontent.com/17735860/166113588-fb270d43-da3b-4570-8bb4-df6a09d42947.png">
+
+### Cake Creator
+<img width="1200" alt="Cake Creator Page" src="https://user-images.githubusercontent.com/17735860/166113578-2411d54b-c4f5-4379-ac3f-daeca86cbb14.png">
+
 
 ## How It's Made
 **Tech used:** HTML, CSS, JavaScript
