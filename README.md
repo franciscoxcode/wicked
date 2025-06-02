@@ -1,6 +1,8 @@
 # Wicked
 This project was built for Wicked, a bakery shop where clients can create custom cakes. For this project I also designed the bakery's interface so that my client can manage placed orders and their specifications. 
 
+Live website 👉 [Wicked website](https://franciscoxcode.github.io/wicked/)
+
 ### Main Page
 <img width="1436" alt="Wicked Home Page" src="https://user-images.githubusercontent.com/17735860/166113588-fb270d43-da3b-4570-8bb4-df6a09d42947.png">
 
